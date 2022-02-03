@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in blockchain core, dapp, and problem solving(in python!!). 
  
-- 🌱 I’m currently learning theoretical Computer Science at Yonsei University. 
+- 🌱 I’m currently learning theoretical Computer Science.
 
 - 💞️ I’m looking to collaborate on many open source projects.
  
