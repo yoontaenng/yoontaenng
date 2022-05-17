@@ -1,13 +1,3 @@
-- 👋 Hi, my name is Yoon, Tae Ung
-
-- 👀 I’m interested in blockchain core, dapp, and problem solving(in python!!). 
- 
-- 🌱 I’m currently learning theoretical Computer Science.
-
-- 💞️ I’m looking to collaborate on many open source projects.
- 
-- 📫 You can reach me via my email address. yoontaeung@yonsei.ac.kr
---------
 <!---
 yoontaenng/yoontaenng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
